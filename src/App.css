@@ -1,0 +1,16 @@
+#root{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.navbar{
+height: 59px;
+
+display: flex;
+align-items: center;
+padding: 0 15px;
+background: lightslategray;
+}
+.navbar_links{
+margin-left: auto;
+}

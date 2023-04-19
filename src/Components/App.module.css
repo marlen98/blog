@@ -1,0 +1,9 @@
+
+.post {
+    margin: 30px;
+    background: rgba(128, 128, 128,.2);
+    padding: 20px;
+    border-radius: 20px;
+    align-items: center;
+    color: rgba(0, 0, 0,.7)
+}

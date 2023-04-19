@@ -1,0 +1,7 @@
+.myint {
+    border-color: black;
+    width:700px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
